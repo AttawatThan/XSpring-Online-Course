@@ -1,0 +1,6 @@
+version: 2
+sources:
+  - name: ecom
+    schema: dev
+    tables:
+      - name: orders
