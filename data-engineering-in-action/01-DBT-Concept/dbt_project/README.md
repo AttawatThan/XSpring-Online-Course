@@ -47,6 +47,7 @@ This project demonstrates data transformation and modeling using dbt (data build
            port: 5432
            dbname: your_database
            schema: your_schema
+         targer: dev
      ```
 
 3. Project Structure:
